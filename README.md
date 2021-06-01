@@ -18,11 +18,11 @@ will create the environment of the Wumpus world without the AI
 
 ## Requirements
 
-Windows OS
-Python Modules:
-    Numpy
-    Pygame
-    Random
+* Windows OS
+* Python Modules:
+    * Numpy
+    * Pygame
+    * Random
 
 ### Credits 
 
