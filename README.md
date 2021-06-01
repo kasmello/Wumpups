@@ -23,6 +23,7 @@ will create the environment of the Wumpus world without the AI
     * Numpy
     * Pygame
     * Random
+    * Time
 
 ### Credits 
 
